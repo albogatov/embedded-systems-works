@@ -1,0 +1,107 @@
+Section info: 
+Number of sections: 8 
+Sum of all sections: 0x92E00 
+Uninitialized data size: 0x0 
+Initialized data size: 0x3CC00 
+Base of code: 0x1000 
+Base of data: 0x94000 
+Address of Entry Point is 0x6C0B0 
+
+
+List of sections: 
+
+Section 1
+Section name: .text
+Virtual size: 92D02
+Virtual address: 1000
+Raw data size: 92E00
+Pointer to raw data: 400
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: 60000020
+
+Section 2
+Section name: .rdata
+Virtual size: 1B54E
+Virtual address: 94000
+Raw data size: 1B600
+Pointer to raw data: 93200
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: 40000040
+
+Section 3
+Section name: .data
+Virtual size: 1E57C
+Virtual address: B0000
+Raw data size: 1AE00
+Pointer to raw data: AE800
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: C0000040
+
+Section 4
+Section name: .didat
+Virtual size: 30
+Virtual address: CF000
+Raw data size: 200
+Pointer to raw data: C9600
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: C0000040
+
+Section 5
+Section name: .crthunk@
+Virtual size: 40
+Virtual address: D0000
+Raw data size: 200
+Pointer to raw data: C9800
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: 40000040
+
+Section 6
+Section name: CPADinfo(
+Virtual size: 28
+Virtual address: D1000
+Raw data size: 200
+Pointer to raw data: C9A00
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: C0000040
+
+Section 7
+Section name: .rsrc
+Virtual size: 690
+Virtual address: D2000
+Raw data size: 800
+Pointer to raw data: C9C00
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: 40000040
+
+Section 8
+Section name: .reloc
+Virtual size: 5924
+Virtual address: D3000
+Raw data size: 5A00
+Pointer to raw data: CA400
+Pointer to relocations: 0
+Pointer to line numbers: 0
+Number of relocations: 0
+Number of linenumbers: 0
+Characteristics: 42000040

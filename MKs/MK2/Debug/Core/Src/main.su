@@ -1,0 +1,6 @@
+main.c:89:5:main	8	static
+main.c:138:6:SystemClock_Config	88	static
+main.c:178:6:ALARM	48	static
+main.c:302:6:oled_timer	24	static
+main.c:313:6:oled_clear	8	static
+main.c:324:6:Error_Handler	4	static
